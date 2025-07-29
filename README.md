@@ -67,11 +67,6 @@ Cleaning was the most time-consuming part. Tasks included:
 
 ---
 
-## 📁 Folder Structure
-- 
-
----
-
 ## 🧠 Key Takeaways
 
 - Real-world data is rarely clean — expect **messy + dirty** formats  
